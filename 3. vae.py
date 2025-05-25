@@ -5,7 +5,7 @@ import tensorflow as tf
 from tensorflow.keras import layers, Model
 from tensorflow.keras.datasets import mnist
 
-# Hyperparameters
+# Hyperparameter
 batch_size = 100
 original_dim = 784
 latent_dim = 2
